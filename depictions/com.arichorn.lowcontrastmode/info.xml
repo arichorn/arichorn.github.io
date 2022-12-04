@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<packageInfo>
+    <bundleId>ch.arichorn.lowcontrastmode</bundleId>
+    <name>LowContrastMode</name>
+    <version>1.0.5-2</version>
+    <descriptions>
+        <description>
+            An example package for testing out our personal Cydia repository
+        </description>
+        <description>
+            this tweak modifes the ui on the YouTube App to appear more easy on the eyes..
+        </description>
+    </descriptions>
+    <compatibility>
+        <miniOS>11.0</miniOS>
+        <maxiOS>16.1</maxiOS>
+    </compatibility>
+    <dependencies>
+        <dependency>mobilesubstrate</dependency>
+        <dependency>some other dependency</dependency>
+    </dependencies>
+    <changelog>
+        <change>
+            <changeVersion>V1.0.5-2</changeVersion>
+            <changeDescription>An important change</changeDescription>
+            <changeDescription>Another important change</changeDescription>
+        </change>
+        <change>
+            <changeVersion>V1.0.1</changeVersion>
+            <changeDescription>Initial Release</changeDescription>
+        </change>
+    </changelog>
+    <screenshots>
+        <screen>1.png</screen>
+        <screen>2.png</screen>
+        <screen>3.png</screen>
+        <screen>4.png</screen>
+    </screenshots>
+    <information>
+        <developer>arichorn</developer>
+        <lastupdate>December 3rd 2022</lastupdate>
+        <release>May 17th 2022</release>
+        <category>Tweaks</category>
+    </information>
+    <links>
+        <github>https://github.com/arichorn</github>
+        <twitter>https://twitter.com/LilithAcc</twitter>
+    </links>
+</packageInfo>
